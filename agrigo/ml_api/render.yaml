@@ -1,0 +1,8 @@
+# AgriGo ML API — Render.com Deployment Config
+# This file is used by Render to configure the service
+
+# Runtime: Python 3.11
+python_version: "3.11"
+
+# Build command: pip install -r requirements.txt && python train_model.py
+# Start command: gunicorn app:app

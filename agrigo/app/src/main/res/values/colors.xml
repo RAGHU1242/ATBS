@@ -1,0 +1,22 @@
+<resources>
+    <!-- Primary Green palette for agricultural theme -->
+    <color name="colorPrimary">#2E7D32</color>
+    <color name="colorPrimaryDark">#1B5E20</color>
+    <color name="colorPrimaryLight">#4CAF50</color>
+    <color name="colorAccent">#FF8F00</color>
+    <color name="colorAccentLight">#FFB300</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="textPrimary">#212121</color>
+    <color name="textSecondary">#757575</color>
+    <color name="textHint">#BDBDBD</color>
+    <color name="divider">#E0E0E0</color>
+    <color name="background">#F5F5F5</color>
+    <color name="cardBackground">#FFFFFF</color>
+    <color name="statusOnline">#4CAF50</color>
+    <color name="statusOffline">#9E9E9E</color>
+    <color name="statusRequested">#FF8F00</color>
+    <color name="statusAccepted">#2E7D32</color>
+    <color name="errorRed">#D32F2F</color>
+    <color name="transparentDark">#80000000</color>
+</resources>
