@@ -1,0 +1,6 @@
+node_modules/
+.env
+*.log
+agrigo/.gradle/
+agrigo/mobile/android/.gradle/
+agrigo/mobile/android/app/build/

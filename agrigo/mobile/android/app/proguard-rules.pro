@@ -1,0 +1,4 @@
+-keep class io.invertase.firebase.** { *; }
+-dontwarn io.invertase.firebase.**
+-keep class com.google.firebase.** { *; }
+-dontwarn com.google.firebase.**
